@@ -31,6 +31,16 @@ vignettes/*.pdf
 *_cache/
 /cache/
 
+# Others
+#.rds
+#.xlsx
+#.xls
+#data/
+
+/articles
+/old
+/oldcode
+
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
